@@ -2,3 +2,4 @@ Flask
 requests
 PyGithub
 openai
+gunicorn
